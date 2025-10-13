@@ -2,19 +2,22 @@
 
 ## part 1
 
-## short answer question.
+## Short answer question.
 
 # Question 1: Explain the primary differences between TensorFlow and PyTorch. When would you choose one over the other?
 
-# Answers: PyTorch emphasizes a Pythonic, flexible, and imperative approach, making it the top choice for research and rapid prototyping. TensorFlow, on the other hand, provides a more robust and complete ecosystem for production-scale deployment.
+# Answers: 
+PyTorch emphasizes a Pythonic, flexible, and imperative approach, making it the top choice for research and rapid prototyping. TensorFlow, on the other hand, provides a more robust and complete ecosystem for production-scale deployment.
 
 # Question 2: Describe two use cases for Jupyter Notebooks in AI development.
 
-# Answers: Exploratory data analysis (EDA) and rapid model prototyping.
+# Answers: 
+Exploratory data analysis (EDA) and rapid model prototyping.
 
 # Question 3: How does spaCy enhance NLP tasks compared to basic Python string operations?
 
-# Answers: Using basic Python string operations for Natural Language Processing (NLP) is a low-level, manual process that lacks an understanding of linguistic rules, context, and semantics. In contrast, using a purpose-built library like spaCy transforms text into a rich, object-oriented data structure that provides a host of pre-built, advanced linguistic features and is optimized for performance.
+# Answers: 
+Using basic Python string operations for Natural Language Processing (NLP) is a low-level, manual process that lacks an understanding of linguistic rules, context, and semantics. In contrast, using a purpose-built library like spaCy transforms text into a rich, object-oriented data structure that provides a host of pre-built, advanced linguistic features and is optimized for performance.
 
 ## Comparative Analysis
 
